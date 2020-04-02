@@ -18,4 +18,5 @@ This repository implements the defromable convolution architecture proposed in t
 * This repo has been verified by comparing with the official MXNet implementation, as showed in `test_against_mxnet.ipynb`.
 
 ### Requirements
-* [PyTorch-v0.3.0](http://pytorch.org/docs/0.3.0/)
+* [PyTorch-v1.4.0](http://pytorch.org/docs/1.4.0/)
+* [Numpy-v1.18.1](https://numpy.org/doc/1.18/)
