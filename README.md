@@ -1,4 +1,4 @@
-## PyTorch Implementation of  Deformable Convolution  
+## PyTorch Implementation of Deformable Convolution (pytorch 1.4.0)
 This repository implements the defromable convolution architecture proposed in this paper:  
 [*Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu and Yichen Wei. Deformable Convolutional Networks. arXiv preprint arXiv:1703.06211, 2017.*](https://arxiv.org/abs/1703.06211)  
 
